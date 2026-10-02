@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "9255cacfd1c563026237a9cd",
+  "owner": "bmayjvtaa",
+  "repo": "page-fde83a6bb08dc26f7352361d",
+  "title": "梦兰网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fde83a6bb08dc26f7352361d",
+      "a": "梦兰网络",
+      "b": "",
+      "entity": "梦兰网络",
+      "brand": "梦兰网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "0007a6947ff8e5c39d317491720094a16395d34428944281120e6db46ccf9f34",
+      "content": {
+        "keyword1": "梦兰网络",
+        "keyword2": "",
+        "primary_entity": "梦兰网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "梦兰网络是提供机场订阅与VPN网络加速的官方服务。本页介绍基础版、旗舰版与团队版套餐，以及配置流程、多端客户端下载与常见问题，助您稳定解锁流媒体并加速游戏办公。",
+          "AI_DESCRIPTION": "梦兰网络是提供机场订阅与VPN网络加速的官方服务。本页介绍基础版、旗舰版与团队版套餐，以及配置流程、多端客户端下载与常见问题，助您稳定解锁流媒体并加速游戏办公。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;background:#F6F4EE;color:#152820;font-family:-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.75}a{color:#1F5C43}header{background:#1F5C43;color:#F6F4EE;padding:12px 16px}header a{color:#F6F4EE;text-decoration:none;margin-right:14px;font-size:14px}.wrap{max-width:720px;margin:0 auto;padding:0 18px 48px}h1{font-size:2.6rem;line-height:1.2;color:#1A4A36;text-align:center;padding:72px 8px 28px;margin:0;letter-spacing:.08em;font-weight:700}.lead{text-align:center;color:#3A5C4C;margin:0 0 40px;font-size:1.05rem}h2{font-size:1.4rem;color:#1A4A36;margin:40px 0 14px;padding-bottom:8px;border-bottom:2px solid #2F6B50}h3{font-size:1.08rem;color:#21563F;margin:22px 0 8px}p,li{margin:0 0 12px}ul{padding-left:1.2em}.plan{background:#FFFEFB;border:1px solid #C9D9CE;padding:18px;margin:0 0 14px}.plan.feat{border:2px solid #2F6B50;background:#EEF6F1}.price{font-size:1.25rem;color:#1A4A36;font-weight:700}.tag{display:inline-block;background:#2F6B50;color:#F6F4EE;font-size:12px;padding:2px 8px;margin-left:8px}details{background:#FFFEFB;border:1px solid #C9D9CE;padding:10px 14px;margin:0 0 10px}summary{font-weight:600;color:#1A4A36}.box{background:#EEF6F1;border:1px solid #C9D9CE;padding:16px;margin:24px 0}footer{background:#1A4A36;color:#E4EDE7;padding:28px 18px;font-size:14px}footer a{color:#E4EDE7}footer .map a{margin-right:10px}</style><header><a href=\"#intro\">梦兰网络</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></header><main class=\"wrap\"><h1>梦兰网络</h1><p class=\"lead\">官方网站 · 机场订阅 · VPN 梯子网络加速 · 多端客户端下载指引</p><section id=\"intro\"><h2>品牌简介</h2><p>梦兰网络是面向个人用户与协作团队的网络加速服务。我们以机场订阅为核心，提供可用于日常浏览、流媒体解锁与游戏加速的 VPN 线路，并配套主流客户端导入方式。本站为梦兰网络官方网站，用于说明套餐差异、配置流程与客户端下载注意事项，方便您在正规渠道完成订阅与使用。</p><p>服务强调连接稳定与分流清晰：普通线路覆盖日常访问，旗舰与团队线路补充 IPLC 专线与高带宽节点。流量按月结算，设备数按套餐限制同时在线。无论您是第一次接触梯子加速器，还是需要为企业准备统一路由，都可以按下方流程完成配置。</p></section><section id=\"plans\"><h2>套餐与官网订阅</h2><p>梦兰网络官网提供三档可续费套餐。价格按自然月计费，年付可锁定优惠。订阅成功后即可在用户中心复制通用订阅链接，导入 Clash、Shadowrocket、Surge 等客户端。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p>按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan feat\"><h3>旗舰版<span class=\"tag\">推荐</span></h3><p class=\"price\">¥35/月</p><p>按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p>按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与远程协作</h3><p>访问海外文档、代码仓库与会议工具时，选择低丢包节点即可保持会话连续。团队版支持更多设备同时在线，适合小组成员共用同一订阅策略。</p><h3>流媒体与内容解锁</h3><p>旗舰版强调全节点原生流媒体解锁，适合长时间观看。基础版覆盖常见基础平台，若出现地区限制，可在客户端中切换专线或流媒体优化节点。</p><h3>游戏与实时对战</h3><p>对延迟敏感的对战与登录，优先使用旗舰版 IPLC 专线。保持客户端规则分流，仅游戏进程走加速通道，避免占用全部流量额度。</p><h3>学习研究与开发调试</h3><p>拉取依赖、查阅文档或连接云端控制台时，可用规则模式只加速相关域名。梦兰网络机场订阅支持定期更新节点列表，减少手工维护成本。</p></section><section id=\"guide\"><h2>配置流程</h2><p>以下步骤是梦兰网络官方推荐的操作说明。请按顺序完成，可减少订阅导入失败或代理未生效的情况。</p><h3>第一步：在官网选择套餐并获取订阅</h3><p>打开梦兰网络官方网站，确认基础版、旗舰版或团队版额度后完成订购。进入用户中心复制订阅地址。该地址用于 Clash 系列、Quantumult X、Surge、v2rayN 等客户端批量更新节点，请勿公开分享。</p><h3>第二步：安装对应系统的客户端</h3><p>电脑端常用 Clash Verge、ClashX Meta、v2rayN；手机端常用 Shadowrocket、Stash、Clash Meta for Android。请从各系统正规应用商店或开发者发布页获取安装包，再回到梦兰网络用户中心核对订阅格式。</p><h3>第三步：导入订阅并更新节点</h3><p>在客户端选择“从 URL 导入”或“订阅管理”，粘贴梦兰网络订阅链接并更新。成功后应看到普通线路与专线分组。日常浏览使用负载均衡或自动选择，流媒体与游戏手动指定 IPLC 或解锁节点。</p><h3>第四步：开启系统代理并验证连通</h3><p>移动端开启 VPN 或增强模式，桌面端开启系统代理或 TUN。用浏览器访问目标站点，确认延迟与解锁状态。若仅部分应用需要加速，改用分应用或规则分流，以节省每月流量。</p><h3>第五步：日常维护</h3><p>节点失效时先更新订阅，再切换分组。流量将尽可在官网升级套餐或等待下个计费周期。团队用户如需定制路由，通过优先工单联系客户经理，避免自行修改核心配置导致全员掉线。</p></section><section id=\"download\"><h2>客户端下载说明</h2><p>梦兰网络不在页面内嵌安装包。官方下载策略是：客户端走系统正规渠道，订阅与节点由梦兰网络官网用户中心发放。这样可降低篡改配置与仿冒加速器的风险。</p><h3>Windows 与 macOS</h3><p>Windows 建议 Clash Verge 或 v2rayN；macOS 建议 ClashX Meta 或 Surge。安装完成后导入订阅，开启系统代理。若公司电脑有安全策略，改用用户权限可运行的便携版客户端。</p><h3>iOS 与 Android</h3><p>iOS 常用 Shadowrocket、Quantumult X、Stash，需准备可用的应用商店账号。Android 常用 Clash Meta for Android。导入后开启分应用代理，避免系统更新与银行类应用误走境外节点。</p><h3>官网下载核对</h3><p>完成客户端安装后，回到梦兰网络官方网站用户中心，确认订阅类型为通用 Clash / SIP008 兼容格式。若客户端提示证书或端口冲突，关闭其他 VPN 后再连接。下载与更新以各客户端官方渠道为准，本站仅提供机场订阅与配置流程。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>梦兰网络是不是官网正版机场服务？</summary><p>是。本页为梦兰网络官方网站内容，用于公布套餐、配置流程与客户端下载指引。请通过官网用户中心获取订阅，不要使用来路不明的配置文件或第三方加速器安装包。</p></details><details><summary>如何完成客户端下载并导入机场订阅？</summary><p>先在对应系统的正规商店安装 Clash、Shadowrocket 等客户端，再到梦兰网络用户中心复制订阅链接，在客户端内选择从 URL 更新。导入成功后选择节点并开启系统代理即可使用 VPN 梯子加速。</p></details><details><summary>三个套餐的流量和设备数量如何区分？</summary><p>基础版每月 100GB、3 台设备，适合轻度浏览；旗舰版每月 300GB、5 台设备，含原生流媒体与 IPLC；团队版每月 1000GB、20 台设备，并提供 VIP 节点与客户经理。年付价格分别为 ¥150、¥350、¥850。</p></details><details><summary>看视频或玩游戏应该选哪条线路？</summary><p>基础流媒体可用普通节点。需要全平台原生解锁时请使用旗舰版或团队版指定节点。游戏与实时对战优先 IPLC 专线，并在客户端里把游戏进程单独分流，以免占满当月极速流量。</p></details><details><summary>配置完成后打不开网页或频繁掉线怎么办？</summary><p>依次检查：订阅是否已更新、系统时间是否准确、是否与其他 VPN 冲突、是否误开全局模式导致国内站点绕行。仍异常时，按配置流程第四步改回规则分流，或提交旗舰版优先工单。</p></details><details><summary>团队是否可以统一管理和定制路由？</summary><p>可以。团队版支持更多同时在线设备与企业定制路由，并由专属客户经理协助。建议由一人保管订阅主账号，其余成员只使用下发的客户端配置，避免节点策略被随意改写。</p></details></section><section id=\"ads\"><h2>合作与广告位</h2><div class=\"box\"><p>梦兰网络官方合作展示：渠道、工具评测与企业采购请通过工单沟通。本栏仅作官网信息位，不跳转外部下载站，客户端仍须按配置流程从正规商店获取。</p></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>友情链接：<a href=\"#guide\">配置流程手册</a> · <a href=\"#download\">客户端下载说明</a> · <a href=\"#plans\">套餐对照</a> · <a href=\"#faq\">问题解答</a></p><p class=\"map\">网站地图：<a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">下载</a><a href=\"#faq\">FAQ</a><a href=\"#ads\">合作</a></p><p>梦兰网络官方网站 · 机场订阅与 VPN 网络加速服务 · 版权所有</p></footer>",
+          "hash": "267ad71fd9b6eb2f0c01a6133a0e078ca27a6aec0e2db80ed2c8048907381311",
+          "seo": {
+            "title": "梦兰网络官网 | VPN梯子网络加速、机场订阅与客户端下载",
+            "keywords": "梦兰网络,梦兰网络官网,梦兰网络VPN,梦兰网络机场,VPN梯子,网络加速,加速器,客户端下载,官方下载,机场订阅,Clash订阅,IPLC",
+            "description": "梦兰网络是提供机场订阅与VPN网络加速的官方服务。本页介绍基础版、旗舰版与团队版套餐，以及配置流程、多端客户端下载与常见问题，助您稳定解锁流媒体并加速游戏办公。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xcjrihgth.cn",
+    "host": "p-de60635206.xcjrihgth.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "xcjrihgth.cn",
+      "url": "https://xcjrihgth.cn/",
+      "label": "NaiKo",
+      "apex": "xcjrihgth.cn",
+      "kind": null,
+      "identity": "gbetgyv/page-96ace0dc4acb077a82fa295e"
+    },
+    {
+      "host": "meijiekj.cn",
+      "url": "https://meijiekj.cn/",
+      "label": "梦兰网络",
+      "apex": "meijiekj.cn",
+      "kind": null,
+      "identity": "unuuhxwwx/page-6b7476cd4bb8d1495f669102"
+    },
+    {
+      "host": "mquqqo.cn",
+      "url": "https://mquqqo.cn/",
+      "label": "梦兰网络",
+      "apex": "mquqqo.cn",
+      "kind": null,
+      "identity": "umyftfpqn/page-971a7e7eb19b6a4585d3128a"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "7f2f7793d306100ad57d13110c59067704503b722f1019c55e3fa43ca5c81808",
+    "sitemap.xml": "4e0186b7c3a070ad1e170c2f23403a472fdd2b7c1df928f8ccff5adddda1f9ad",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "09c212cac01f4e737e8d70b37802aa53b44e3787dab0da4ff6e31fe821c7c0fd",
+    "robots.txt": "2929104da9bdd876f8f6d68be3686965b6963808cbb6d82216e5e372633b5005",
+    "c642ec8b12442376e73b7c5d0151d0ba.txt": "c2e8b1f2d85ef8325b8bc4d7bec89317144e74af53a7b034d3591a0eb7fb6c11"
+  },
+  "revision": "acd7f14ab6233ba32e8a72d350c690a875275aaae1c70f2d520598bf1003b2a3"
+}
